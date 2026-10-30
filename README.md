@@ -3,10 +3,10 @@
 Interfaz web del sistema de asistencia escolar EduCheck. Consume la API del backend Django
 (parte 1) a través del proxy de Vite.
 
-> Proyecto dividido en 3 partes:
-> 1. Backend Django (`parte-1-backend-django`)
-> 2. **Frontend React** (este repositorio)
-> 3. Documentación y despliegue (`parte-3-documentacion-despliegue`)
+> Proyecto dividido en 3 repositorios:
+> 1. Backend Django — https://github.com/ROBERTHGONZALES/educheck-sistema
+> 2. **Frontend React** — este repositorio
+> 3. Documentación y despliegue — https://github.com/ROBERTHGONZALES/educheck-documentacion
 
 ## Requisitos
 
